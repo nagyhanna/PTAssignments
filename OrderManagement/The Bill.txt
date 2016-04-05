@@ -1,0 +1,4 @@
+ Product ID | Product Name | Product Price | Product Quantity 
+3            6S Edge            500.0            2.0            
+ -------------------------------------------------------- 
+TOTAL PRICE: 1000.0

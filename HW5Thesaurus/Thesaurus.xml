@@ -1,0 +1,100 @@
+<?xml version="1.0"?><content>
+<WORD>
+	<word>trust</word>
+	<word0>believe</word0>
+	<howMany>1</howMany>
+	<D>syn</D>
+</WORD>
+<WORD>
+	<word>mistake</word>
+	<word0>error</word0>
+	<howMany>1</howMany>
+	<D>syn</D>
+</WORD>
+<WORD>
+	<word>lovely</word>
+	<word0>good</word0>
+	<howMany>1</howMany>
+	<D>syn</D>
+</WORD>
+<WORD>
+	<word>select</word>
+	<word0>choose</word0>
+	<howMany>1</howMany>
+	<D>syn</D>
+</WORD>
+<WORD>
+	<word>pleasant</word>
+	<word0>good</word0>
+	<howMany>1</howMany>
+	<D>syn</D>
+</WORD>
+<WORD>
+	<word>start</word>
+	<word0>begin</word0>
+	<howMany>1</howMany>
+	<D>syn</D>
+</WORD>
+<WORD>
+	<word>choose</word>
+	<word0>select</word0>
+	<howMany>1</howMany>
+	<D>syn</D>
+</WORD>
+<WORD>
+	<word>aaaaaa</word>
+	<word0>fine</word0>
+	<howMany>1</howMany>
+	<D>syn</D>
+</WORD>
+<WORD>
+	<word>believe</word>
+	<word0>trust</word0>
+	<howMany>1</howMany>
+	<D>syn</D>
+</WORD>
+<WORD>
+	<word>error</word>
+	<word0>mistake</word0>
+	<howMany>1</howMany>
+	<D>syn</D>
+</WORD>
+<WORD>
+	<word>good</word>
+	<word0>fine</word0>
+	<word1>pleasant</word1>
+	<howMany>2</howMany>
+	<D>syn</D>
+</WORD>
+<WORD>
+	<word>candid</word>
+	<word0>honest</word0>
+	<word1>truthful</word1>
+	<howMany>2</howMany>
+	<D>syn</D>
+</WORD>
+<WORD>
+	<word>fine</word>
+	<word0>good</word0>
+	<howMany>1</howMany>
+	<D>syn</D>
+</WORD>
+<WORD>
+	<word>honest</word>
+	<word0>candid</word0>
+	<howMany>1</howMany>
+	<D>syn</D>
+</WORD>
+<WORD>
+	<word>truthful</word>
+	<word0>candid</word0>
+	<howMany>1</howMany>
+	<D>syn</D>
+</WORD>
+<WORD>
+	<word>begin</word>
+	<word0>start</word0>
+	<howMany>1</howMany>
+	<D>syn</D>
+</WORD>
+</content>
